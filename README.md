@@ -6,7 +6,7 @@ This application is designed with **strong cryptographic typing**, defensive err
 
 ---
 
-## 🛠️ Architecture & Design Decisions
+## Architecture & Design Decisions
 
 To meet the high standard of production Bitcoin software, the application is broken down into structured, isolated domains:
 
