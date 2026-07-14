@@ -19,7 +19,7 @@ To meet the high standard of production Bitcoin software, the application is bro
 
 ---
 
-## Setup Instructions
+## 🚀 Setup Instructions
 
 ### 1. Run a Local Regtest Node with Polar
 1. Download and run [Polar](https://lightningpolar.com/).
@@ -30,7 +30,7 @@ To meet the high standard of production Bitcoin software, the application is bro
     * **RPC Username** (e.g., `polaruser`)
     * **RPC Password** (e.g., `polarpass`)
 
-###Note: You need to have docker desktop installed
+**Note: You need to download docker desktop
 
 ### 2. Configure Your Environment Variables
 To ensure no sensitive credentials are hardcoded into the source, configure your shell with the following environment variables:
